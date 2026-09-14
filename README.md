@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Yusuf 
 
-<!--
-**kahramanyusuff/kahramanyusuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer engineering student focused on software development, systems, and building practical tools.
 
-Here are some ideas to get you started:
+#### What I'm working on
+- Building projects mainly with **Python**, **C#**, and **C++**
+- Learning more about system architecture, data structures, and backend workflows
+- Tools I use regularly: Linux, Docker, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Toolbox
+- **Languages:** Python, C#, C++, SQL
+- **Tools & Platforms:** Git, Docker, Linux, VS Code / Cursor
+- **Interests:** Desktop tools, backend services, game development
+
+#### Connect
+- [LinkedIn](https://linkedin.com/in/yusuf-kahraman-24b0bb321)
