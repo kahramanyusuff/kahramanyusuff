@@ -1,11 +1,10 @@
-### Hi, I'm Yusuf 
+### Hi, I'm Yusuf 👋 
 
 I'm a computer engineering student focused on software development, systems, and building practical tools.
 
 #### What I'm working on
 - Building projects mainly with **Python**, **C#**, and **C++**
 - Learning more about system architecture, data structures, and backend workflows
-- Tools I use regularly: Linux, Docker, Git
 
 #### Toolbox
 - **Languages:** Python, C#, C++, SQL
@@ -13,4 +12,4 @@ I'm a computer engineering student focused on software development, systems, and
 - **Interests:** Desktop tools, backend services, game development
 
 #### Connect
-- [LinkedIn](https://linkedin.com/in/yusuf-kahraman-24b0bb321)
+[LinkedIn](https://linkedin.com/in/yusuf-kahraman-24b0bb321)
