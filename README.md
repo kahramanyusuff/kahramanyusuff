@@ -8,8 +8,8 @@ I'm a computer engineering student focused on software development, systems, and
 
 #### Toolbox
 - **Languages:** Python, C#, C++, SQL
-- **Tools & Platforms:** Git, Docker, Linux, VS Code / Cursor
+- **Tools & Platforms:** Git, Docker, Linux, VS Code / Antigravity
 - **Interests:** Desktop tools, backend services, game development
 
 #### Connect
-[LinkedIn](https://linkedin.com/in/yusuf-kahraman-24b0bb321)
+- [LinkedIn](https://linkedin.com/in/yusuf-kahraman-24b0bb321)
